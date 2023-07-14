@@ -151,8 +151,8 @@ h1 {
     .objectives {
         margin: 0px;
         padding: 20px;
-        font-size: 16px;
-        word-spacing: 6px;
+        font-size: 14px;
+        word-spacing: 2px;
         line-height: 1.5rem;
     }
     .img2 {
@@ -162,4 +162,16 @@ h1 {
     p, li {
         font-size: 20px;
     }
+    .skills-certificates {
+        padding: 10px;
+        word-spacing: 0px;
+        text-align: justify;
+    }
+    .skills-certificates h2 {
+        text-align: center;
+    }
+    .skills, .certificates {
+        padding: 10px;
+    }
+
 }
